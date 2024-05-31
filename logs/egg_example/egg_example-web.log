@@ -1,0 +1,76 @@
+2024-05-31 18:44:05,912 ERROR 52974 [-/127.0.0.1/-/5027ms GET /news] nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://hacker-news.firebaseio.com/v0/topstories.json -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":1,"createSocketErrorCount":0,"closeSocketCount":1,"errorSocketCount":0,"timeoutSocketCount":0,"requestCount":0,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/Users/abakus/Desktop/暂存/egg_example/node_modules/urllib/lib/urllib.js:988:15)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+name: "ConnectionTimeoutError"
+requestId: 1
+data: undefined
+path: "/v0/topstories.json?orderBy=%22%24key%22&startAt=%220%22&endAt=%224%22"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"statusMessage":null,"headers":{},"size":0,"aborted":false,"rt":5022,"keepAliveSocket":false,"requestUrls":["https://hacker-news.firebaseio.com/v0/topstories.json"],"timing":null,"remoteAddress":"35.190.39.113","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 52974
+hostname: zxy-MBP.local
+
+2024-05-31 18:45:47,289 ERROR 53029 [-/127.0.0.1/-/6ms GET /news] nodejs.TypeError: Cannot read property 'some' of undefined
+    at robotMiddleware (/Users/abakus/Desktop/暂存/egg_example/app/middleware/robot.js:8:30)
+    at dispatch (/Users/abakus/Desktop/暂存/egg_example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at /Users/abakus/Desktop/暂存/egg_example/node_modules/egg-development/app/middleware/egg_loader_trace.js:7:56
+    at dispatch (/Users/abakus/Desktop/暂存/egg_example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at i18n (/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-i18n/app/middleware/i18n.js:13:12)
+    at dispatch (/Users/abakus/Desktop/暂存/egg_example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at dispatch (/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-security/node_modules/koa-compose/index.js:42:32)
+    at dta (/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-security/lib/middlewares/dta.js:12:12)
+    at dispatch (/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-security/node_modules/koa-compose/index.js:42:32)
+    at xframe (/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-security/lib/middlewares/xframe.js:7:11)
+
+pid: 53029
+hostname: zxy-MBP.local
+
+2024-05-31 18:45:51,749 ERROR 53029 [-/127.0.0.1/-/3ms GET /] nodejs.TypeError: Cannot read property 'some' of undefined
+    at robotMiddleware (/Users/abakus/Desktop/暂存/egg_example/app/middleware/robot.js:8:30)
+    at dispatch (/Users/abakus/Desktop/暂存/egg_example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at /Users/abakus/Desktop/暂存/egg_example/node_modules/egg-development/app/middleware/egg_loader_trace.js:7:56
+    at dispatch (/Users/abakus/Desktop/暂存/egg_example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at i18n (/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-i18n/app/middleware/i18n.js:13:12)
+    at dispatch (/Users/abakus/Desktop/暂存/egg_example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at dispatch (/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-security/node_modules/koa-compose/index.js:42:32)
+    at dta (/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-security/lib/middlewares/dta.js:12:12)
+    at dispatch (/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-security/node_modules/koa-compose/index.js:42:32)
+    at xframe (/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-security/lib/middlewares/xframe.js:7:11)
+
+pid: 53029
+hostname: zxy-MBP.local
+
+2024-05-31 18:46:16,641 ERROR 53067 [-/127.0.0.1/-/5ms GET /] nodejs.TypeError: Cannot read property 'some' of undefined
+    at robotMiddleware (/Users/abakus/Desktop/暂存/egg_example/app/middleware/robot.js:11:30)
+    at dispatch (/Users/abakus/Desktop/暂存/egg_example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at /Users/abakus/Desktop/暂存/egg_example/node_modules/egg-development/app/middleware/egg_loader_trace.js:7:56
+    at dispatch (/Users/abakus/Desktop/暂存/egg_example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at i18n (/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-i18n/app/middleware/i18n.js:13:12)
+    at dispatch (/Users/abakus/Desktop/暂存/egg_example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at dispatch (/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-security/node_modules/koa-compose/index.js:42:32)
+    at dta (/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-security/lib/middlewares/dta.js:12:12)
+    at dispatch (/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-security/node_modules/koa-compose/index.js:42:32)
+    at xframe (/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-security/lib/middlewares/xframe.js:7:11)
+
+pid: 53067
+hostname: zxy-MBP.local
+
+2024-05-31 18:46:25,661 ERROR 53077 [-/127.0.0.1/-/7ms GET /] nodejs.TypeError: Cannot read property 'some' of undefined
+    at robotMiddleware (/Users/abakus/Desktop/暂存/egg_example/app/middleware/robot.js:10:30)
+    at dispatch (/Users/abakus/Desktop/暂存/egg_example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at /Users/abakus/Desktop/暂存/egg_example/node_modules/egg-development/app/middleware/egg_loader_trace.js:7:56
+    at dispatch (/Users/abakus/Desktop/暂存/egg_example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at i18n (/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-i18n/app/middleware/i18n.js:13:12)
+    at dispatch (/Users/abakus/Desktop/暂存/egg_example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at dispatch (/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-security/node_modules/koa-compose/index.js:42:32)
+    at dta (/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-security/lib/middlewares/dta.js:12:12)
+    at dispatch (/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-security/node_modules/koa-compose/index.js:42:32)
+    at xframe (/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-security/lib/middlewares/xframe.js:7:11)
+
+pid: 53077
+hostname: zxy-MBP.local
+

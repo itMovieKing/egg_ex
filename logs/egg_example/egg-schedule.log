@@ -1,0 +1,60 @@
+2024-05-31 18:40:45,202 INFO 52846 [egg-schedule]: register schedule /Users/abakus/Desktop/暂存/egg_example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2024-05-31 18:40:45,202 INFO 52846 [egg-schedule]: register schedule /Users/abakus/Desktop/暂存/egg_example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2024-05-31 18:40:45,202 INFO 52846 [egg-schedule]: register schedule /Users/abakus/Desktop/暂存/egg_example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2024-05-31 18:40:45,326 INFO 52846 [Timer] /Users/abakus/Desktop/暂存/egg_example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 35354677ms at 2024-06-01 04:30:00.003
+2024-05-31 18:40:45,327 INFO 52846 [Timer] /Users/abakus/Desktop/暂存/egg_example/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 19154673ms at 2024-06-01 00:00:00.000
+2024-05-31 18:40:45,327 INFO 52846 [Timer] /Users/abakus/Desktop/暂存/egg_example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 19155673ms at 2024-06-01 00:00:01.000
+2024-05-31 18:42:23,036 INFO 52918 [egg-schedule]: register schedule /Users/abakus/Desktop/暂存/egg_example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2024-05-31 18:42:23,036 INFO 52918 [egg-schedule]: register schedule /Users/abakus/Desktop/暂存/egg_example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2024-05-31 18:42:23,036 INFO 52918 [egg-schedule]: register schedule /Users/abakus/Desktop/暂存/egg_example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2024-05-31 18:42:23,225 INFO 52915 [Timer] /Users/abakus/Desktop/暂存/egg_example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 35256777ms at 2024-06-01 04:30:00.002
+2024-05-31 18:42:23,226 INFO 52915 [Timer] /Users/abakus/Desktop/暂存/egg_example/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 19056775ms at 2024-06-01 00:00:00.001
+2024-05-31 18:42:23,226 INFO 52915 [Timer] /Users/abakus/Desktop/暂存/egg_example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 19057774ms at 2024-06-01 00:00:01.000
+2024-05-31 18:43:43,612 INFO 52968 [egg-schedule]: register schedule /Users/abakus/Desktop/暂存/egg_example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2024-05-31 18:43:43,612 INFO 52968 [egg-schedule]: register schedule /Users/abakus/Desktop/暂存/egg_example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2024-05-31 18:43:43,612 INFO 52968 [egg-schedule]: register schedule /Users/abakus/Desktop/暂存/egg_example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2024-05-31 18:43:45,336 INFO 52974 [egg-schedule]: register schedule /Users/abakus/Desktop/暂存/egg_example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2024-05-31 18:43:45,337 INFO 52974 [egg-schedule]: register schedule /Users/abakus/Desktop/暂存/egg_example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2024-05-31 18:43:45,337 INFO 52974 [egg-schedule]: register schedule /Users/abakus/Desktop/暂存/egg_example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2024-05-31 18:44:56,240 INFO 53005 [egg-schedule]: register schedule /Users/abakus/Desktop/暂存/egg_example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2024-05-31 18:44:56,240 INFO 53005 [egg-schedule]: register schedule /Users/abakus/Desktop/暂存/egg_example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2024-05-31 18:44:56,240 INFO 53005 [egg-schedule]: register schedule /Users/abakus/Desktop/暂存/egg_example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2024-05-31 18:45:24,749 INFO 53029 [egg-schedule]: register schedule /Users/abakus/Desktop/暂存/egg_example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2024-05-31 18:45:24,749 INFO 53029 [egg-schedule]: register schedule /Users/abakus/Desktop/暂存/egg_example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2024-05-31 18:45:24,749 INFO 53029 [egg-schedule]: register schedule /Users/abakus/Desktop/暂存/egg_example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2024-05-31 18:46:03,549 INFO 53050 [egg-schedule]: register schedule /Users/abakus/Desktop/暂存/egg_example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2024-05-31 18:46:03,550 INFO 53050 [egg-schedule]: register schedule /Users/abakus/Desktop/暂存/egg_example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2024-05-31 18:46:03,550 INFO 53050 [egg-schedule]: register schedule /Users/abakus/Desktop/暂存/egg_example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2024-05-31 18:46:04,812 INFO 53058 [egg-schedule]: register schedule /Users/abakus/Desktop/暂存/egg_example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2024-05-31 18:46:04,812 INFO 53058 [egg-schedule]: register schedule /Users/abakus/Desktop/暂存/egg_example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2024-05-31 18:46:04,812 INFO 53058 [egg-schedule]: register schedule /Users/abakus/Desktop/暂存/egg_example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2024-05-31 18:46:11,064 INFO 53067 [egg-schedule]: register schedule /Users/abakus/Desktop/暂存/egg_example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2024-05-31 18:46:11,064 INFO 53067 [egg-schedule]: register schedule /Users/abakus/Desktop/暂存/egg_example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2024-05-31 18:46:11,064 INFO 53067 [egg-schedule]: register schedule /Users/abakus/Desktop/暂存/egg_example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2024-05-31 18:46:24,422 INFO 53077 [egg-schedule]: register schedule /Users/abakus/Desktop/暂存/egg_example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2024-05-31 18:46:24,422 INFO 53077 [egg-schedule]: register schedule /Users/abakus/Desktop/暂存/egg_example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2024-05-31 18:46:24,422 INFO 53077 [egg-schedule]: register schedule /Users/abakus/Desktop/暂存/egg_example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2024-05-31 18:46:40,420 INFO 53090 [egg-schedule]: register schedule /Users/abakus/Desktop/暂存/egg_example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2024-05-31 18:46:40,420 INFO 53090 [egg-schedule]: register schedule /Users/abakus/Desktop/暂存/egg_example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2024-05-31 18:46:40,420 INFO 53090 [egg-schedule]: register schedule /Users/abakus/Desktop/暂存/egg_example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2024-05-31 18:47:20,701 INFO 53104 [egg-schedule]: register schedule /Users/abakus/Desktop/暂存/egg_example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2024-05-31 18:47:20,701 INFO 53104 [egg-schedule]: register schedule /Users/abakus/Desktop/暂存/egg_example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2024-05-31 18:47:20,701 INFO 53104 [egg-schedule]: register schedule /Users/abakus/Desktop/暂存/egg_example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2024-05-31 18:47:27,538 INFO 53112 [egg-schedule]: register schedule /Users/abakus/Desktop/暂存/egg_example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2024-05-31 18:47:27,538 INFO 53112 [egg-schedule]: register schedule /Users/abakus/Desktop/暂存/egg_example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2024-05-31 18:47:27,539 INFO 53112 [egg-schedule]: register schedule /Users/abakus/Desktop/暂存/egg_example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2024-05-31 18:47:59,947 INFO 53125 [egg-schedule]: register schedule /Users/abakus/Desktop/暂存/egg_example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2024-05-31 18:47:59,947 INFO 53125 [egg-schedule]: register schedule /Users/abakus/Desktop/暂存/egg_example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2024-05-31 18:47:59,947 INFO 53125 [egg-schedule]: register schedule /Users/abakus/Desktop/暂存/egg_example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2024-05-31 18:48:32,682 INFO 53146 [egg-schedule]: register schedule /Users/abakus/Desktop/暂存/egg_example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2024-05-31 18:48:32,682 INFO 53146 [egg-schedule]: register schedule /Users/abakus/Desktop/暂存/egg_example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2024-05-31 18:48:32,682 INFO 53146 [egg-schedule]: register schedule /Users/abakus/Desktop/暂存/egg_example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2024-05-31 18:48:41,934 INFO 53153 [egg-schedule]: register schedule /Users/abakus/Desktop/暂存/egg_example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2024-05-31 18:48:41,934 INFO 53153 [egg-schedule]: register schedule /Users/abakus/Desktop/暂存/egg_example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2024-05-31 18:48:41,934 INFO 53153 [egg-schedule]: register schedule /Users/abakus/Desktop/暂存/egg_example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2024-05-31 18:49:31,737 INFO 53182 [egg-schedule]: register schedule /Users/abakus/Desktop/暂存/egg_example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2024-05-31 18:49:31,737 INFO 53182 [egg-schedule]: register schedule /Users/abakus/Desktop/暂存/egg_example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2024-05-31 18:49:31,737 INFO 53182 [egg-schedule]: register schedule /Users/abakus/Desktop/暂存/egg_example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2024-05-31 18:50:04,156 INFO 53198 [egg-schedule]: register schedule /Users/abakus/Desktop/暂存/egg_example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2024-05-31 18:50:04,156 INFO 53198 [egg-schedule]: register schedule /Users/abakus/Desktop/暂存/egg_example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2024-05-31 18:50:04,156 INFO 53198 [egg-schedule]: register schedule /Users/abakus/Desktop/暂存/egg_example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js

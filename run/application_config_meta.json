@@ -1,0 +1,302 @@
+{
+  "keys": "/Users/abakus/Desktop/暂存/egg_example/config/config.default.js",
+  "view": {
+    "defaultViewEngine": "/Users/abakus/Desktop/暂存/egg_example/config/config.default.js",
+    "mapping": {
+      ".tpl": "/Users/abakus/Desktop/暂存/egg_example/config/config.default.js"
+    },
+    "root": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-view/config/config.default.js",
+    "cache": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-view/config/config.local.js",
+    "defaultExtension": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-view/config/config.default.js"
+  },
+  "middleware": "/Users/abakus/Desktop/暂存/egg_example/config/config.default.js",
+  "robot": {
+    "ua": "/Users/abakus/Desktop/暂存/egg_example/config/config.default.js"
+  },
+  "news": {
+    "pageSize": "/Users/abakus/Desktop/暂存/egg_example/config/config.default.js",
+    "serverUrl": "/Users/abakus/Desktop/暂存/egg_example/config/config.default.js"
+  },
+  "session": {
+    "maxAge": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-session/config/config.default.js",
+    "key": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-session/config/config.default.js",
+    "httpOnly": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-session/config/config.default.js",
+    "encrypt": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-session/config/config.default.js",
+    "logValue": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-session/config/config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-security/config/config.default.js",
+    "protocolWhiteList": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-security/config/config.default.js",
+    "csrf": {
+      "enable": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-security/config/config.default.js",
+      "type": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-security/config/config.default.js",
+      "ignoreJSON": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-security/config/config.default.js",
+      "useSession": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-security/config/config.default.js",
+      "cookieName": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-security/config/config.default.js",
+      "sessionName": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-security/config/config.default.js",
+      "headerName": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-security/config/config.default.js",
+      "bodyName": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-security/config/config.default.js",
+      "queryName": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-security/config/config.default.js",
+      "supportedRequests": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-security/config/config.default.js",
+      "refererWhiteList": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-security/config/config.default.js",
+      "cookieOptions": {
+        "signed": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-security/config/config.default.js"
+      }
+    },
+    "xframe": {
+      "enable": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-security/config/config.default.js"
+    },
+    "hsts": {
+      "enable": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-security/config/config.local.js",
+      "maxAge": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-security/config/config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-security/config/config.default.js",
+      "policy": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-security/config/config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-security/config/config.default.js",
+      "ipExceptionList": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-security/config/config.default.js",
+      "checkAddress": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-security/config/config.default.js"
+    }
+  },
+  "helper": {
+    "shtml": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-security/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-jsonp/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-onerror/config/config.default.js",
+    "templatePath": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-onerror/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-i18n/config/config.default.js",
+    "dirs": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-i18n/config/config.default.js",
+    "cookieDomain": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-i18n/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-watcher/config/config.local.js",
+    "eventSources": {
+      "default": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-watcher/config/config.default.js",
+      "development": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-watcher/config/config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-schedule/config/config.default.js",
+      "file": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-schedule/config/config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-schedule/config/config.default.js"
+  },
+  "multipart": {
+    "mode": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-multipart/config/config.default.js",
+    "autoFields": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-multipart/config/config.default.js",
+    "defaultParamCharset": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-multipart/config/config.default.js",
+    "fileSize": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-multipart/config/config.default.js",
+    "files": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-multipart/config/config.default.js",
+    "whitelist": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-multipart/config/config.default.js",
+    "allowArrayField": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-multipart/config/config.default.js",
+    "tmpdir": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-multipart/config/config.default.js",
+    "cleanSchedule": {
+      "cron": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-multipart/config/config.default.js",
+      "disable": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-multipart/config/config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-development/config/config.default.js",
+    "ignoreDirs": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-development/config/config.default.js",
+    "fastReady": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-development/config/config.default.js",
+    "reloadOnDebug": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-development/config/config.default.js",
+    "overrideDefault": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-development/config/config.default.js",
+    "overrideIgnore": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-development/config/config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-logrotator/config/config.default.js"
+  },
+  "static": {
+    "prefix": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-static/config/config.default.js",
+    "dir": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-static/config/config.default.js",
+    "dynamic": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-static/config/config.default.js",
+    "preload": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-static/config/config.default.js",
+    "buffer": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-static/config/config.default.js",
+    "maxFiles": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-static/config/config.default.js"
+  },
+  "nunjucks": {
+    "autoescape": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-view-nunjucks/config/config.default.js",
+    "throwOnUndefined": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-view-nunjucks/config/config.default.js",
+    "trimBlocks": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-view-nunjucks/config/config.default.js",
+    "lstripBlocks": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-view-nunjucks/config/config.default.js",
+    "cache": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg-view-nunjucks/config/config.local.js"
+  },
+  "env": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg/config/config.default.js",
+  "name": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg/config/config.default.js",
+  "cookies": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg/config/config.default.js",
+  "proxy": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg/config/config.default.js",
+  "maxIpsCount": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg/config/config.default.js",
+  "maxProxyCount": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg/config/config.default.js",
+  "pkg": {
+    "name": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg/config/config.default.js",
+    "version": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg/config/config.default.js",
+    "description": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg/config/config.default.js",
+    "main": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg/config/config.default.js",
+    "scripts": {
+      "dev": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg/config/config.default.js",
+      "test": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg/config/config.default.js",
+      "cov": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg/config/config.default.js"
+    },
+    "author": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg/config/config.default.js",
+    "license": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg/config/config.default.js",
+    "dependencies": {
+      "egg": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg/config/config.default.js",
+      "egg-view-nunjucks": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg/config/config.default.js",
+      "moment": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg/config/config.default.js"
+    },
+    "devDependencies": {
+      "egg-bin": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg/config/config.default.js",
+      "egg-mock": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg/config/config.default.js"
+    }
+  },
+  "baseDir": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg/config/config.default.js",
+  "HOME": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg/config/config.default.js",
+  "rundir": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg/config/config.default.js",
+  "dump": {
+    "ignore": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg/config/config.default.js",
+    "timing": {
+      "slowBootActionMinDuration": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg/config/config.default.js"
+    }
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg/config/config.default.js",
+    "notFound": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg/config/config.default.js",
+    "sitefile": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg/config/config.default.js",
+    "middlewares": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg/config/config.default.js",
+    "httpClient": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg/config/config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg/config/config.default.js",
+    "cacheControl": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg/config/config.default.js",
+    "formLimit": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg/config/config.default.js",
+    "jsonLimit": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg/config/config.default.js",
+    "textLimit": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg/config/config.default.js",
+    "strict": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg/config/config.default.js",
+      "depth": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg/config/config.default.js"
+    },
+    "onerror": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg/config/config.default.js"
+  },
+  "logger": {
+    "dir": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg/config/config.default.js",
+    "env": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg/config/config.default.js",
+    "level": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg/config/config.default.js",
+    "consoleLevel": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg/config/config.default.js",
+    "disableConsoleAfterReady": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg/config/config.default.js",
+    "outputJSON": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg/config/config.default.js",
+    "buffer": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg/config/config.default.js",
+    "appLogName": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg/config/config.default.js",
+    "coreLogName": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg/config/config.default.js",
+    "agentLogName": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg/config/config.default.js",
+    "errorLogName": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg/config/config.default.js",
+    "coreLogger": {
+      "consoleLevel": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg/config/config.local.js"
+    },
+    "allowDebugAtProd": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg/config/config.default.js",
+    "enablePerformanceTimer": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg/config/config.default.js",
+    "enableFastContextLogger": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg/config/config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg/config/config.default.js",
+    "dnsCacheLookupInterval": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg/config/config.default.js",
+    "request": {
+      "timeout": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg/config/config.default.js"
+    },
+    "useHttpClientNext": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg/config/config.default.js"
+  },
+  "meta": {
+    "enable": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg/config/config.default.js",
+    "logging": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg/config/config.default.js"
+  },
+  "coreMiddleware": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg/config/config.default.js",
+  "serverTimeout": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg/config/config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg/config/config.default.js",
+      "port": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg/config/config.default.js",
+      "hostname": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg/config/config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg/config/config.default.js",
+    "responseTimeout": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg/config/config.default.js"
+  },
+  "onClientError": "/Users/abakus/Desktop/暂存/egg_example/node_modules/egg/config/config.default.js"
+}
